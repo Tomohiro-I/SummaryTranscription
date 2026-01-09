@@ -42,6 +42,8 @@ API課金を使わず、Mac上のローカル環境のみで動作します。
 ```bash
 pip3 install -r backend/requirements.txt
 
+---
+
 ### 2. 音声処理ツールのインストール
 brew install ffmpeg
 
